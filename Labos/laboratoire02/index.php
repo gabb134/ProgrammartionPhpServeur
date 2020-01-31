@@ -303,6 +303,9 @@ echo "Jour de la semaine : " . $intJourSemaine6 . "<br/>";
 //echo date("N");
 //echo joursemaineEnLiterral(3);
 //echo moisEnLiterral(1)
+
+
+
 ?>
 
 
