@@ -1,0 +1,10 @@
+body {font-family: arial;font-size: 16px;padding-left: 15px;padding-top: 15px;}
+table {border-collapse: collapse;}
+td {border:solid 1px black;}
+
+.sTitreApplication {font-size: 32px;line-height: 26px;font-weight: bold;margin-top: 0px;}
+.sTitreSection {font-size: 24px;line-height: 18px;font-weight: bold;}
+
+.sDroits{font-size:12px;}
+.sGras{font-weight: bold;}
+.sRouge{color:red;}
