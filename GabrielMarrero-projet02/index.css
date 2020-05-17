@@ -1,0 +1,31 @@
+BODY, INPUT, SELECT { font-family:arial; font-size:16px; }
+BODY { padding-left:15px; padding-top:15px; }
+INPUT, SELECT { font-weight:bold; }
+A { font-weight:bold; padding:3px; }
+
+.sTitreApplication { font-size:32px; line-height:26px; font-weight:bold; margin-top:0px; }
+.sTitreSection { font-size:24px; line-height:18px; font-weight:bold; }
+.sTitreSousSection { font-size:20px; font-weight:bold; }
+
+.sBleu { color:blue; }
+.sConsigne, .sMembreDA, .sDroits { font-size:12px; }
+.sMembreDA { font-weight:bold; }
+.sCache { display:none; }
+.sDA { width:70px; }
+.sGras { font-weight:bold; }
+.sRouge { color:red; }
+.sMarque { background-color:greenyellow; }
+.sNomEquipe { width:140px; }
+.sNoJeton { width:50px; }
+
+.sEntete { background-color:blue; color:white; }
+.sEntete, .sLigne { border:solid 1px black; padding:5px; }
+.sMembreEquipe { color:blue; font-weight:bold; }
+.sMembreEquipeJeton { color:#00ffff; font-weight:bold; }
+.sMessageErreur { color:red; font-weight:bold; }
+.sMessageOK { color:blue; font-weight:bold; }
+/*
+A:link { color:Black; background-color:White; text-decoration:none;}
+A:visited { color:Black; background-color:White; text-decoration:none;}
+A:hover { color:White; background-color:Black; text-decoration:none; }
+*/
